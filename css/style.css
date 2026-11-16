@@ -192,5 +192,4 @@ a:link, a:visited, a:hover, a:active {
     text-overflow: ellipsis;
     white-space: nowrap;
     font-size: 1.2rem;
-    vertical-align: middle;
 }
